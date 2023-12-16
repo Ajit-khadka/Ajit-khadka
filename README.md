@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ajit khadka" src="https://www.linkedin.com/in/ajitkhadka/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajit khadka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ajitkhadka/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajit khadka" height="30" width="40" /></a>
 <a href="https://fb.com/ajit khadka"  src="https://www.facebook.com/ajit.khadka.710/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajit khadka" height="30" width="40" /></a>
 <a href="https://instagram.com/imajite" src="https://www.instagram.com/imajite/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imajite" height="30" width="40" /></a>
 </p>
