@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ajit khadka</h1>
-<h2 align="left">Frontend Developer 🐸</h2>
+<h2 align="left">Web Developer 🐸</h2>
 <p align="left">A fresher lost in the world of coding possibilities, whether it's mastering the details of front-end technologies or exploring into the back-end complexities, I am on a continuous journey to enhance my skills and contribute to the ever-evolving landscape of web development.</p>
 
 - 🌱 I’m currently learning **Express.js**
