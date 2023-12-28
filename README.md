@@ -2,7 +2,7 @@
 <h2 align="left">Web Developer 🐸</h2>
 <p align="left">A fresher lost in the world of coding possibilities, whether it's mastering the details of front-end technologies or exploring into the back-end complexities, I am on a continuous journey to enhance my skills and contribute to the ever-evolving landscape of web development.</p>
 
-- 🌱 I’m currently working on **SherpaThreads**
+- 🌱 I’m currently learning **Node js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ajit-khadka.github.io/Portfolio/)
 
